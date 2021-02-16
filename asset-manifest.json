@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monsters-roll/static/css/main.2a7c532c.chunk.css",
-    "main.js": "/monsters-roll/static/js/main.9eb77d5f.chunk.js",
-    "main.js.map": "/monsters-roll/static/js/main.9eb77d5f.chunk.js.map",
+    "main.js": "/monsters-roll/static/js/main.af8d0164.chunk.js",
+    "main.js.map": "/monsters-roll/static/js/main.af8d0164.chunk.js.map",
     "runtime-main.js": "/monsters-roll/static/js/runtime-main.811f7163.js",
     "runtime-main.js.map": "/monsters-roll/static/js/runtime-main.811f7163.js.map",
     "static/js/2.a92d3279.chunk.js": "/monsters-roll/static/js/2.a92d3279.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.811f7163.js",
     "static/js/2.a92d3279.chunk.js",
     "static/css/main.2a7c532c.chunk.css",
-    "static/js/main.9eb77d5f.chunk.js"
+    "static/js/main.af8d0164.chunk.js"
   ]
 }
